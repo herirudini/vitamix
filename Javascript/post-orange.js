@@ -2,19 +2,19 @@ const article = [
   {
     h2: `Orange Juice`,
     h3A: `Orange`,
-    imageA: `src="../Images/orange.jpg" alt="Orange Fruit"`,
+    imageA: `src="./Images/orange.jpg" alt="Orange Fruit"`,
     pA: `The orange is the fruit of various citrus species in the family Rutaceae (see list of plants known as orange); it primarily refers to Citrus × sinensis, which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations.
     <br>The orange is a hybrid between pomelo (Citrus maxima) and mandarin (Citrus reticulata). The chloroplast genome, and therefore the maternal line, is that of pomelo. The sweet orange has had its full genome sequenced.
     <br>The orange originated in a region encompassing Southern China, Northeast India, and Myanmar,and the earliest mention of the sweet orange was in Chinese literature in 314 BC. As of 1987, orange trees were found to be the most cultivated fruit tree in the world. Orange trees are widely grown in tropical and subtropical climates for their sweet fruit. The fruit of the orange tree can be eaten fresh, or processed for its juice or fragrant peel. As of 2012, sweet oranges accounted for approximately 70% of citrus production.
     <br>In 2017, 73 million tonnes of oranges were grown worldwide, with Brazil producing 24% of the world total, followed by China and India.[1]`,
     h3B: `Juice of Orange`,
-    imageB: `src="../Images/orange-juice2.png" alt="Orange Juice"`,
+    imageB: `src="./Images/orange-juice2.png" alt="Orange Juice"`,
     pB: `Orange juice is the most popular fruit juice worldwide and has long been a breakfast staple.
     <br>Television commercials and marketing slogans portray this drink as unquestionably natural and healthy.
     <br>Yet, some scientists and health experts are concerned that this sweet beverage could harm your health.
     <br>This article looks at orange juice and whether it’s good or bad for you.`,
     h4A: `From the Orchard to Your Glass`,
-    imageC: `src="../Images/orange-juice.jpg" alt="Orange Juice"`,
+    imageC: `src="./Images/orange-juice.jpg" alt="Orange Juice"`,
     pC: `Most store-bought types of orange juice aren’t made by simply squeezing fresh-picked oranges and pouring the juice into bottles or cartons.
     <br>Rather, they’re produced through a multi-step, rigorously controlled process, and the juice can be stored in large tanks for up to a year before packaging.
     <br>First, oranges are washed and squeezed by a machine. Pulp and oils are removed. The juice is heat-pasteurized to inactivate enzymes and kill microbes that could otherwise cause deterioration and spoilage (1Trusted Source, 2Trusted Source, 3Trusted Source).
