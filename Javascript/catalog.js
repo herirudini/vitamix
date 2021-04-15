@@ -5,7 +5,7 @@ const album = [
     date: "26/09/2035",
     author: "Heri Rudini",
     content: "Orange juice is a liquid extract of the orange tree fruit, produced by squeezing or reaming oranges. It comes in several different varieties, including blood orange, navel oranges, valencia orange, clementine, and tangerine. ",
-    link: `../Html/post-orange.html`,
+    link: `../docs/post-orange.html`,
     image: `src="../Images/orange-juice.jpg" alt="orange-juice"`,
   },
   {
@@ -13,7 +13,7 @@ const album = [
     date: "26/12/2035",
     author: "Rudini Rudini",
     content: "Carrot juice is extracted from whole carrots and extremely nutritious. It not only provides potassium and vitamin C but also is very rich in provitamin A. Drinking carrot juice is thought to boost immunity and improve eye and skin health, among other benefits.",
-    link: `../Html/post-carrot.html`,
+    link: `../docs/post-carrot.html`,
     image: `src="../Images/carrot-juice.jpg" alt="Carrot juice with lemon"`,
   },
   {
@@ -21,7 +21,7 @@ const album = [
     date: "26/10/2035",
     author: "Heri Rudini",
     content: "The vitamins A, C, K, and B complex all improve your immune system, making a mango a day the most delicious supplement you could take during cold and flu season.",
-    link: `../Html/post-mango.html`,
+    link: `../docs/post-mango.html`,
     image: `src="../Images/mango-juice.jpg" alt="Manggo juice"`,
   },
   {
